@@ -25,10 +25,10 @@ the audio to get a live look at the waveform of what you are listening to!
 Licensed under the [TAPR Open Hardware License](www.tapr.org/OHL)
 
 ## Credits
-* **Schematics & board designs:** [sebsky808](https://github.com/sebsky808)
+* **Schematics & board designs:** [seb sky](https://github.com/sebskypaw)
 
 ## Special Thanks
 * **Designed with:** [KiCAD](https://www.kicad.org/)
 
 ## Support
-If you find this project interesting or helpful, consider supporting me on [ko-fi](https://ko-fi.com/sebsky808), it would be much appreciated!
+If you find this project interesting or helpful, consider supporting me on [ko-fi](https://ko-fi.com/sebsky), it would be much appreciated!
